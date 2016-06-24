@@ -1,6 +1,6 @@
 
 
-# Pieces of Parts demo
+# Pieces-of-parts demo
 
 Demo code to illustrate the improvement in the definition of a labelled region using spatial relationships between 
 other regions in the supervoxel space. 
@@ -30,7 +30,6 @@ python pieces-of-parts-demo.py
 *Learned probablities*
 
 ![Probability map](images/figure_1-1.png)
-
 ![Probability map](images/figure_2-1.png)
 
 *Input probabilities associated with each label*
